@@ -200,7 +200,7 @@ nav i {
 } */
 
 main {
-  background: #d3d3d3;
+  background: #f0f0f0;
   padding-left: 190px;
 }
 
@@ -237,7 +237,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(16, 202, 56);
+  color: rgb(156, 39, 176);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #b0b0b0;
+  background: #e0e0e0;
   position: relative;
 }
 
