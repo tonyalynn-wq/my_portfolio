@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #d8bfd8;
+  color: #8b7ab8;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #d8bfd8;
+  color: #8b7ab8;
   background-color: white;
 }
 /* main body */
@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #d8bfd8;
+  color: #8b7ab8;
 }
 
 /* main blockqoute */
@@ -200,7 +200,7 @@ nav i {
 } */
 
 main {
-  background: #f0f0f0;
+  background: #fafafa;
   padding-left: 190px;
 }
 
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #e0e0e0;
+  background: #f5f5f5;
   position: relative;
 }
 
@@ -473,7 +473,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #d8bfd8 !important;
+  border-bottom: 3px solid #8b7ab8 !important;
 }
 
 #skills .card.large {
@@ -549,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #d8bfd8 !important;
+  color: #8b7ab8 !important;
 }
 
 /* .teal-text {
@@ -559,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #d8bfd8 !important;
+  background-color: #8b7ab8 !important;
 }
 
 /* .teal {
